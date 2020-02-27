@@ -1,0 +1,13 @@
+- output_figure_name: "test1.png"
+  measure_name: "votemper" 
+  model_name: "AMM15"
+  input_file_name: "/project/oceanver/monitoring/input/amm15_opfc/diagnostics/run_20200225/amm15.mersea.grid_T.nc"
+  level_number: 0
+  depth: 0
+
+- output_figure_name: "test2.png"
+  measure_name: "votemper" 
+  model_name: "AMM7vX"
+  input_file_name: "/project/oceanver/monitoring/input/amm7vx_opfc/diagnostics/run_20200225/amm7vx.mersea.grid_T.nc"
+  level_number: 0
+  depth: 0
